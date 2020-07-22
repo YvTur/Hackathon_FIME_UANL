@@ -1,2 +1,13 @@
 # Hackathon_FIME_UANL
-Proposed solution for the first hackathon at the school of engineering at FIME, UANL.
+Solution for the 
+
+## Problem description
+Data recolection for monitor the levels of nutriments, pH, and physical values of the soil for farming. 
+
+## Solution proposed
+An automated robot that goes around the field and check out the level of physical values. 
+
+## Team members: 
+* Ernesto Santander
+* Yahir Platas
+* Yves Macias 
