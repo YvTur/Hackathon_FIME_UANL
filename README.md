@@ -11,3 +11,6 @@ An automated robot that goes around the field and check out the level of physica
 * Ernesto Santander
 * Yahir Platas
 * Yves Macias 
+
+## Architect Overview
+An automated robot that goes around the field and check out the level of physical values. 
