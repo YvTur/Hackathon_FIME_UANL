@@ -1,5 +1,5 @@
 # Hackathon_FIME_UANL
-Solution for the 
+
 
 ## Problem description
 Data recolection for monitor the levels of nutriments, pH, and physical values of the soil for farming. 
